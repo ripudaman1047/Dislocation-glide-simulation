@@ -4,7 +4,7 @@
 !["Example"](resources/dislocation_progress.gif)
 
 Circle Rolling is a technique that simulates the glide of a dislocation
-through a point-like obstacles distributed on the glide plane. [1]
+through a point-like obstacles distributed on the glide plane. [see Ref-1]
 
 Applications based on various strength distributions of the obstacles are
 placed in seperate folders. As input, it takes the number of obsacles, breaking angle (or strength)
@@ -37,7 +37,10 @@ User can also use:
 
 ### **REFERENCES**
 
-[1] Morris Jr, J. W., & Klahn, D. H. (1974). Thermally activated dislocation glide through a
+1) Bharti, Purnima, et al. "Yield strength modeling of an Al-Cu-Li alloy through circle rolling
+and flow stress superposition approach." Journal of Alloys and Compounds (2023): 171343. https://doi.org/10.1016/j.jallcom.2023.171343
+
+2) Morris Jr, J. W., & Klahn, D. H. (1974). Thermally activated dislocation glide through a
 random array of point obstacles: Computer simulation. Journal of Applied Physics, 45(5), 2027-2038.
 
 ---
